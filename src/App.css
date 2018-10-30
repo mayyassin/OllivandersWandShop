@@ -5,14 +5,21 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
+
   height: 80px;
   border: maroon;
   border-weight: 4px;
 }
+
+.card-image {
+  border-radius: 50%;
+}
+
 .card-body {
   background-color: maroon;
   font-family: Verdana;
   color: white;
+  border-radius: 50%;
 }
 .App-header {
   background-color: #222;
